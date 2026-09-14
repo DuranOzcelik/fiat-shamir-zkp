@@ -4,7 +4,7 @@ A complete Python implementation and experimental analysis of the **Fiat-Shamir 
 
 Developed as a course project for *BIM474 – Introduction to Cryptography* (Eskisehir Technical University, Department of Computer Engineering).
 
-📊 Presentation slides: [`docs/Fiat_Shamir_ZKP_Presentation.pptx`](docs/Fiat_Shamir_ZKP_Presentation.pptx)
+📊 Presentation slides: [English](docs/Fiat_Shamir_ZKP_Presentation.pptx) · [Turkish](docs/Fiat_Shamir_ZKP_Presentation_TR.pptx)
 
 ---
 
@@ -92,7 +92,8 @@ fiat-shamir-zkp/
 ├── main.py          — command-line entry point
 ├── requirements.txt
 └── docs/
-    └── Fiat_Shamir_ZKP_Presentation.pptx
+    ├── Fiat_Shamir_ZKP_Presentation.pptx
+    └── Fiat_Shamir_ZKP_Presentation_TR.pptx
 ```
 
 Modules communicate only through typed dataclasses (`Commitment`, `Challenge`, `Response`, `Transcript`, `RoundResult`, `ProtocolResult`), which strictly enforces the protocol's communication model — the prover and verifier never share internal state.
