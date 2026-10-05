@@ -2,9 +2,9 @@
 
 A complete Python implementation and experimental analysis of the **Fiat-Shamir zero-knowledge identification protocol**, with an interactive **Streamlit web interface** for stepping through the protocol and running the security test suite in the browser.
 
-Developed as a course project for *BIM474 – Introduction to Cryptography* (Eskisehir Technical University, Department of Computer Engineering).
+Developed as a course project for  Cryptography Department of Computer Engineering).
 
-📊 Presentation slides: [English](docs/Fiat_Shamir_ZKP_Presentation.pptx) · [Turkish](docs/Fiat_Shamir_ZKP_Presentation_TR.pptx)
+
 
 ---
 
